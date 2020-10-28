@@ -1,7 +1,6 @@
 import java.util.NoSuchElementException;
 /**
  * Air class is a Queue which holds plates.
- * CS 310-002.
  * @author Bao Vo
  */ 
 public class Air implements Queue<Plate> {
