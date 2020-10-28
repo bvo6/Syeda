@@ -1,6 +1,5 @@
 /**
  * Plate class will create plates with letters for Syeda to hold.
- * CS 310-002.
  * @author
  */ 
 public class Plate {
