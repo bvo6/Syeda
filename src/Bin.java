@@ -1,7 +1,6 @@
 import java.util.NoSuchElementException;
 /**
  * Bin is a stack data structure which will hold plates.
- * CS 310-002.
  * @author Bao Vo
  */ 
 public class Bin implements Stack<Plate> {
