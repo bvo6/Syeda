@@ -5,7 +5,6 @@ import java.util.ListIterator;
 import java.util.NoSuchElementException;
 /**
  * AttachedList is a generic linked list that implements Java's List interface.
- * CS 310-002.
  * @author Bao Vo
  * @param <T> generic type
  */ 
